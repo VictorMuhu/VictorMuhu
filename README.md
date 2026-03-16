@@ -134,3 +134,10 @@ This GitHub is a **living lab of product experiments.**
 Everything here is built to explore:
 
 **How product managers will work in the AI era.**
+
+# Built With
+
+• Claude Code
+• Replit
+• GitHub
+• AI Agents
