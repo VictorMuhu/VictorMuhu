@@ -2,7 +2,7 @@
 
 I’m a product manager building an **AI-native product lab**.
 
-I design experiments, workflows, and micro-products that explore how AI can transform how product managers work.
+I design experiments, workflows, and micro-products that explore how AI can transform how product managers work and the systems they use.
 
 My goal is simple:
 
