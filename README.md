@@ -85,6 +85,6 @@ If you're interested in:
 feel free to connect.
 
 LinkedIn:  
-[(https://www.linkedin.com/in/victor-njoroge/)](https://www.linkedin.com/in/victor-njoroge/)
+[https://www.linkedin.com/in/victor-njoroge/](https://www.linkedin.com/in/victor-njoroge/)
 
 ---
