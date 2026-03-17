@@ -9,7 +9,15 @@ My goal is simple:
 → Turn PM thinking into **working tools and experiments.**
 
 ---
+## Start Here
 
+→ pm-experiment-studio (best entry point)
+
+---
+## What I'm Doing Now
+
+→ [See what I’m currently focused on](./NOW.md)
+---
 ## What This Is
 
 This GitHub is a **live product lab**.
@@ -64,10 +72,6 @@ PMs should not just make decisions.
 They should build **systems that generate decisions.**
 
 ---
-
-## Start Here
-
-→ pm-experiment-studio (best entry point)
 
 # Connect
 
