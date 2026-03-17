@@ -20,7 +20,7 @@ It contains:
 - micro-products
 - decision-making tools
 
-# Built With
+## Built With
 
 • Claude Code
 • Replit
