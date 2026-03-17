@@ -10,7 +10,7 @@ My goal is simple:
 
 ---
 
-## 🚀 What This Is
+## What This Is
 
 This GitHub is a **live product lab**.
 
@@ -29,7 +29,7 @@ It contains:
 
 ---
 
-## 🧠 The System
+## The System
 
 Everything here is part of a larger system:
 
@@ -39,7 +39,7 @@ Everything here is part of a larger system:
 
 ---
 
-## 🧪 Explore the Lab
+## Explore the Lab
 
 | Area | What it is |
 |-----|----------|
@@ -49,7 +49,7 @@ Everything here is part of a larger system:
 
 ---
 
-## ⚡ Featured Experiments
+## Featured Experiments
 
 - AI Idea Validator  
 - Product Design Coach  
@@ -57,7 +57,7 @@ Everything here is part of a larger system:
 
 ---
 
-## 📈 Philosophy
+## Philosophy
 
 PMs should not just make decisions.
 
@@ -65,7 +65,7 @@ They should build **systems that generate decisions.**
 
 ---
 
-## 🔗 Start Here
+## Start Here
 
 → pm-experiment-studio (best entry point)
 
