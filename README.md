@@ -20,6 +20,13 @@ It contains:
 - micro-products
 - decision-making tools
 
+# Built With
+
+• Claude Code
+• Replit
+• GitHub
+• AI Agents
+
 ---
 
 ## 🧠 The System
@@ -76,18 +83,3 @@ LinkedIn:
 [(https://www.linkedin.com/in/victor-njoroge/)](https://www.linkedin.com/in/victor-njoroge/)
 
 ---
-
-# My GitHub Lab
-
-This GitHub is a **living lab of product experiments.**
-
-Everything here is built to explore:
-
-**How product managers will work in the AI era.**
-
-# Built With
-
-• Claude Code
-• Replit
-• GitHub
-• AI Agents
