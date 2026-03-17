@@ -71,7 +71,9 @@ They should build **systems that generate decisions.**
 ## What I'm Doing Now
 
 → [See what I’m currently focused on](./NOW.md)
+
 → [How I think about product](./THINKING.md)
+
 ## Connect
 
 If you're interested in:
