@@ -63,10 +63,10 @@ PMs should not just make decisions.
 They should build **systems that generate decisions.**
 
 ---
-## 🚀 Start Here
+## Start Here
 
 <p align="center">
-  <a href="[https://victormuhu.github.io/pm-experiment-studio/](https://pm-experiment-lab.lovable.app)">
+  <a href="(https://pm-experiment-lab.lovable.app)">
     <img src="./assets/pm-experiment-studio.png" width="800"/>
   </a>
 </p>
