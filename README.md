@@ -65,7 +65,7 @@ They should build **systems that generate decisions.**
 ---
 ## Start Here
 
-→ pm-experiment-studio (best entry point)
+→ pm-experiment-studio ([best entry point](https://pm-experiment-lab.lovable.app))
 
 ---
 ## What I'm Doing Now
