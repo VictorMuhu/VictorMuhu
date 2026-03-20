@@ -66,7 +66,7 @@ They should build **systems that generate decisions.**
 ## Start Here
 
 <p align="center">
-  <a href="(https://pm-experiment-lab.lovable.app)">
+  <a href="https://pm-experiment-lab.lovable.app">
     <img src="./assets/pm-experiment-studio.png" width="800"/>
   </a>
 </p>
