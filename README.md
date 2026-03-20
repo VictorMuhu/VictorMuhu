@@ -66,7 +66,7 @@ They should build **systems that generate decisions.**
 ## 🚀 Start Here
 
 <p align="center">
-  <a href="https://victormuhu.github.io/pm-experiment-studio/">
+  <a href="[https://victormuhu.github.io/pm-experiment-studio/](https://pm-experiment-lab.lovable.app)">
     <img src="./assets/pm-experiment-studio.png" width="800"/>
   </a>
 </p>
@@ -77,7 +77,7 @@ They should build **systems that generate decisions.**
 </p>
 
 <p align="center">
-  <em>Explore the lab →</em>
+  <em>Click the Image above to Explore the lab</em>
 </p>
 
 ---
