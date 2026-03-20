@@ -63,9 +63,22 @@ PMs should not just make decisions.
 They should build **systems that generate decisions.**
 
 ---
-## Start Here
+## 🚀 Start Here
 
-→ pm-experiment-studio ([best entry point](https://pm-experiment-lab.lovable.app))
+<p align="center">
+  <a href="https://victormuhu.github.io/pm-experiment-studio/">
+    <img src="./assets/pm-experiment-studio.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>PM Experiment Studio</strong><br/>
+  A living lab for experiments, workflows, and micro-products exploring how PMs think and build with AI.
+</p>
+
+<p align="center">
+  <em>Explore the lab →</em>
+</p>
 
 ---
 ## What I'm Doing Now
