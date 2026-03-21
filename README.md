@@ -82,7 +82,7 @@ They should build **systems that generate decisions.**
 
 ---
 
-## 🧠 PM AI Operating System
+## PM AI Operating System
 
 <p align="center">
   <a href="https://github.com/VictorMuhu/pm-ai-os">
@@ -96,7 +96,7 @@ They should build **systems that generate decisions.**
 </p>
 
 <p align="center">
-  <em>Explore the system →</em>
+  <em>Click the Image above to Explore the OS</em>
 </p>
 
 ---
