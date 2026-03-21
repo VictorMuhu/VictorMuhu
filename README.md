@@ -25,6 +25,10 @@ It contains:
 • Replit
 • GitHub
 • AI Agents
+• Jules
+• Cursor
+• Stitch
+• Google's Anti-Gravity
 
 ---
 
