@@ -81,6 +81,25 @@ They should build **systems that generate decisions.**
 </p>
 
 ---
+
+## 🧠 PM AI Operating System
+
+<p align="center">
+  <a href="https://github.com/VictorMuhu/pm-ai-os">
+    <img src="./assets/pm-ai-os.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>PM AI OS</strong><br/>
+  AI-native product management system: workflows, agents, and decision frameworks for modern PM execution.
+</p>
+
+<p align="center">
+  <em>Explore the system →</em>
+</p>
+
+---
 ## What I'm Doing Now
 
 → [See what I’m currently focused on](./NOW.md)
