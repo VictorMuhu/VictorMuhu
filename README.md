@@ -100,6 +100,25 @@ They should build **systems that generate decisions.**
 </p>
 
 ---
+
+## 🎯 PM AI Demo
+
+<p align="center">
+  <a href="https://github.com/VictorMuhu/pm-ai-demo">
+    <img src="./assets/pm-ai-demo.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>PM AI Demo</strong><br/>
+  Real product scenarios and applied PM thinking using AI systems.
+</p>
+
+<p align="center">
+  <em>See real applications →</em>
+</p>
+
+---
 ## What I'm Doing Now
 
 → [See what I’m currently focused on](./NOW.md)
