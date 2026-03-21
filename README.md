@@ -73,7 +73,7 @@ They should build **systems that generate decisions.**
 
 <p align="center">
   <strong>PM Experiment Studio</strong><br/>
-  A living, breathing and growing lab for experiments, workflows, and micro-products.
+  A living, breathing and growing lab for experiments.
 </p>
 
 <p align="center">
