@@ -73,7 +73,7 @@ They should build **systems that generate decisions.**
 
 <p align="center">
   <strong>PM Experiment Studio</strong><br/>
-  A living lab for experiments, workflows, and micro-products exploring how PMs think and build with AI.
+  A living, breathing and growing lab for experiments, workflows, and micro-products.
 </p>
 
 <p align="center">
