@@ -101,7 +101,7 @@ They should build **systems that generate decisions.**
 
 ---
 
-## 🎯 PM AI Demo
+## PM AI Demo
 
 <p align="center">
   <a href="https://github.com/VictorMuhu/pm-ai-demo">
@@ -115,7 +115,7 @@ They should build **systems that generate decisions.**
 </p>
 
 <p align="center">
-  <em>See real applications →</em>
+  <em>Click the Image above to see the Demo Approach</em>
 </p>
 
 ---
