@@ -110,11 +110,11 @@ They should build **systems that generate decisions.**
 
 If you're interested in:
 
-• product thinking  
+• Product thinking  
 • AI-native workflows  
-• experimentation systems  
+• Experimentation systems  
 
-feel free to connect.
+Feel free to connect.
 
 LinkedIn:  
 [https://www.linkedin.com/in/victor-njoroge/](https://www.linkedin.com/in/victor-njoroge/)
