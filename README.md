@@ -29,7 +29,7 @@ It contains:
 • Cursor
 • Stitch
 • Google's Anti-Gravity
-• and many many more
+• and more
 
 ---
 
